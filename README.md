@@ -26,11 +26,11 @@ I'm a **Data Analyst & Business Consultant** who blends **technical expertise** 
 ---
 
 ## 📚 Popular Projects
-### 🔥 [Tiller Analytics Portfolio](https://github.com/yourusername/tiller-analytics)
+### 🔥 [Tiller Analytics Portfolio]([https://github.com/yourusername/tiller-analytics](https://github.com/tyagilakshay112/Tiller-By-SumUp))
 Strategic data platform for the restaurant industry  
 → ELT pipeline, KPI dashboards, ML forecasts, geographic insights
 
-### 💼 [Sales Performance Optimizer](https://github.com/yourusername/sales-insights)
+### 💼 [Sales Performance Optimizer]([https://github.com/yourusername/sales-insights](https://github.com/tyagilakshay112/gwz_sales))
 Empowers sales teams with real-time territory insights  
 → Looker dashboards + SQL modeling + customer segmentation
 
