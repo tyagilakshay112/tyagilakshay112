@@ -37,8 +37,8 @@ Empowers sales teams with real-time territory insights
 ---
 
 ## 🤝 Let’s Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/lakshayt112)  
-- 🌐 [Portfolio Website](troopl.com/tyagilakshay112)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshayt112/)  
+- 🌐 [Portfolio Website](https://troopl.com/tyagilakshay112/)  
 - 📬 DM me for collaboration, freelance work, or just to geek out about data!
 
 ---
